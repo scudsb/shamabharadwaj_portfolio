@@ -8,5 +8,5 @@ Skilled SDET proficient in creating robust test frameworks and ensuring software
 # Certificates
 
 # Tools
-**IntelliJ**
+
 
