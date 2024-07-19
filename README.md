@@ -16,6 +16,4 @@ Skilled SDET proficient in creating robust test frameworks and ensuring software
 * UiPath Certified RPA Associate v1.0 (2021)
 * Automation Anywhere Certified Advanced RPA Professional (A2019) (2021)
 
-# Tools
-
-
+PS: Portfolio updates are WIP
